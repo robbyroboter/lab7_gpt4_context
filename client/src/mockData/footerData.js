@@ -1,11 +1,12 @@
 const header=
     "Хотите Шагнуть в Будущее Раньше Других?";
 
-const footerCtaButtons =
+const footerCtaButtons =[
     {
         type: "button",
         title: "Запросить ранний доступ",
-    };
+    },
+];
 
 const image={
     src:"./assets/img/logo.svg",

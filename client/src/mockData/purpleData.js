@@ -4,11 +4,12 @@ export const text =
 export const header=
     "Зарегистрируйтесь и начните исследовать безграничные возможности.";
 
-export const purpleCtaButtons =
+export const purpleCtaButtons = [
     {
         type: "button",
         title: "Начать",
-    };
+    },
+];
 
 export const purpleData={
     text,
